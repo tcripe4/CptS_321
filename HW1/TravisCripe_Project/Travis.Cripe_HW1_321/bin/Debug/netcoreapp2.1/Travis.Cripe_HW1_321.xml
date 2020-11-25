@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Travis.Cripe_HW1_321</name>
+    </assembly>
+    <members>
+        <member name="T:BinarySearchTree.BST">
+            <summary>
+            Header test
+            </summary>
+        </member>
+        <member name="F:BinarySearchTree.BST.head">
+            <summary>
+            The head node
+            </summary>
+        </member>
+        <member name="F:BinarySearchTree.BST.numberNodes">
+            <summary>
+            The total number of nodes inserted
+            </summary>
+        </member>
+        <member name="P:BinarySearchTree.BST.GetSetNumberNodes">
+            <summary>
+            Gets or sets the number of total nodes
+            </summary>
+        </member>
+        <member name="P:BinarySearchTree.BST.GetSetHeadNode">
+            <summary>
+            Gets or sets the head node
+            </summary>
+        </member>
+        <member name="M:BinarySearchTree.BST.Insert(ClassNode.Node,System.Int32)">
+            <summary>Inserts the specified head.</summary>
+            <param name="head">The head node of the BST</param>
+            <param name="data">The int data that will be in the node</param>
+            <returns>Returns the node that was inserted</returns>
+        </member>
+        <member name="M:BinarySearchTree.BST.PrintInOrder(ClassNode.Node)">
+            <summary>Prints the BST in order.</summary>
+            <param name="root">The root node</param>
+        </member>
+        <member name="M:BinarySearchTree.BST.CheckDuplicates(ClassNode.Node,System.Int32)">
+            <summary>Checks the duplicates.</summary>
+            <param name="root">The root is a parameter.</param>
+            <param name="data">The integer that is going to be in the node.</param>
+            <returns>Returns whether the integer is a duplicate or not</returns>
+        </member>
+        <member name="M:BinarySearchTree.BST.NodeCount">
+            <summary>
+            Counts the nodes that are inserted
+            </summary>
+        </member>
+        <member name="T:ClassNode.Node">
+            <summary>
+            This class is the Node class, it has the right, left and the data of the Node
+            </summary>
+        </member>
+        <member name="F:ClassNode.Node.right">
+            <summary>
+            The right node
+            </summary>
+        </member>
+        <member name="F:ClassNode.Node.left">
+            <summary>
+            The left node
+            </summary>
+        </member>
+        <member name="F:ClassNode.Node.num">
+            <summary>
+            The data in each node
+            </summary>
+        </member>
+        <member name="P:ClassNode.Node.GetSetnum">
+            <summary>
+            Gets or sets the data of each node
+            </summary>
+        </member>
+        <member name="P:ClassNode.Node.GetSetRightNode">
+            <summary>
+            Gets or sets the right or left node
+            </summary>
+        </member>
+        <member name="P:ClassNode.Node.GetSetLeftNode">
+            <summary>
+            Gets or sets the right or left node
+            </summary>
+        </member>
+        <member name="T:User_Input.Numbers">
+            <summary>
+            This class is all for the numbers that the user enters
+            </summary>
+        </member>
+        <member name="F:User_Input.Numbers.index">
+            <summary>
+            The current number of nodes
+            </summary>
+        </member>
+        <member name="F:User_Input.Numbers.userNumbers">
+            <summary>
+            The input of the user string
+            </summary>
+        </member>
+        <member name="F:User_Input.Numbers.sparseNumbers">
+            <summary>
+            The user String but sparse
+            </summary>
+        </member>
+        <member name="M:User_Input.Numbers.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:User_Input.Numbers"/> class.
+            This is the constructor for the user numbers
+            </summary>
+        </member>
+        <member name="P:User_Input.Numbers.GetSetIndex">
+            <summary>
+            Gets or sets the number index for what number is to be read
+            </summary>
+        </member>
+        <member name="P:User_Input.Numbers.GetSetUserNumbers">
+            <summary>
+            Gets or sets the string of the numbers the user has inputted
+            </summary>
+        </member>
+        <member name="P:User_Input.Numbers.GetSetSparsedNumbers">
+            <summary>
+            Gets or sets the index of the array for the number
+            </summary>
+        </member>
+        <member name="M:User_Input.Numbers.NumbersSet(System.String@)">
+            <summary>
+            Sets the new string from the user to the private string variable
+            </summary>
+            <param name="newMessage"> a String newMessage </param>
+        </member>
+        <member name="M:User_Input.Numbers.Increment_Index">
+            <summary>Increments the index.</summary>
+        </member>
+        <member name="M:User_Input.Numbers.Read_Index">
+            <summary>Reads the index.</summary>
+            <returns>The index of the current sparse string</returns>
+        </member>
+        <member name="T:Wrapper">
+            <summary>
+            This class is the wrapper class which bring it all together
+            </summary>
+        </member>
+        <member name="M:Wrapper.Main">
+            <summary>
+            Runs the program
+            </summary>
+        </member>
+    </members>
+</doc>

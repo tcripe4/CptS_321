@@ -1,0 +1,7 @@
+C:\Users\travi\Source\Repos\HW11_TravisCripe_11519554\HW11_TravisCripe_11519554\bin\Debug\HW11_TravisCripe_11519554.exe.config
+C:\Users\travi\Source\Repos\HW11_TravisCripe_11519554\HW11_TravisCripe_11519554\bin\Debug\HW11_TravisCripe_11519554.exe
+C:\Users\travi\Source\Repos\HW11_TravisCripe_11519554\HW11_TravisCripe_11519554\bin\Debug\HW11_TravisCripe_11519554.pdb
+C:\Users\travi\Source\Repos\HW11_TravisCripe_11519554\HW11_TravisCripe_11519554\obj\Debug\HW11_TravisCripe_11519554.csprojAssemblyReference.cache
+C:\Users\travi\Source\Repos\HW11_TravisCripe_11519554\HW11_TravisCripe_11519554\obj\Debug\HW11_TravisCripe_11519554.csproj.CoreCompileInputs.cache
+C:\Users\travi\Source\Repos\HW11_TravisCripe_11519554\HW11_TravisCripe_11519554\obj\Debug\HW11_TravisCripe_11519554.exe
+C:\Users\travi\Source\Repos\HW11_TravisCripe_11519554\HW11_TravisCripe_11519554\obj\Debug\HW11_TravisCripe_11519554.pdb

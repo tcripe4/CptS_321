@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HW3_Project</name>
+    </assembly>
+    <members>
+        <member name="T:HW3_Project.FibonacciTextReader">
+            <summary>
+            hbjjnkkl
+            </summary>
+        </member>
+        <member name="M:HW3_Project.FibonacciTextReader.#ctor(System.Int32)">
+            <summary>
+            Initializes a new instance of the <see cref="T:HW3_Project.FibonacciTextReader"/> class.
+            The constructor for the fibonacci
+            </summary>
+            <param name="max">the max nummber for the fibonacci numbers</param>
+        </member>
+        <member name="M:HW3_Project.FibonacciTextReader.FibonacciGenerator(System.Int32)">
+            <summary>
+            This generates the fibonacci numbers and then converts them to a string
+            </summary>
+            <param name="num">the num of the amount of fibonnaci sequences</param>
+            <returns> the string of the number</returns>
+        </member>
+        <member name="M:HW3_Project.FibonacciTextReader.ReadToEnd">
+            <summary>
+            This gets the fibonacci to be outputted to the textbox
+            </summary>
+            <returns>the string of the number</returns>
+        </member>
+        <member name="T:HW3_Project.Form1">
+            <summary>
+            This is the class for the form
+            </summary>
+        </member>
+        <member name="M:HW3_Project.Form1.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:HW3_Project.Form1"/> class.
+            This initilazies the form component
+            </summary>
+        </member>
+        <member name="M:HW3_Project.Form1.OpenFileDialog1_FileOk(System.Object,System.ComponentModel.CancelEventArgs)">
+            <summary>
+            This opens the file dialog and makes sure that it matches
+            </summary>
+            <param name="sender">the object</param>
+            <param name="e">event arg</param>
+        </member>
+        <member name="M:HW3_Project.Form1.LoadText(System.IO.TextReader)">
+            <summary>
+            This reads the text from the text file and outputs it to the text box.
+            </summary>
+            <param name="sr">the stream reader for the text reader</param>
+        </member>
+        <member name="M:HW3_Project.Form1.LoadFormFileToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Loads the strip menu
+            </summary>
+            <param name="sender">The object sender</param>
+            <param name="e">parameter for the eventargs</param>
+        </member>
+        <member name="M:HW3_Project.Form1.loadFromFileToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Loads the strip menu
+            </summary>
+            <param name="sender">object sender</param>
+            <param name="e">event args</param>
+        </member>
+        <member name="M:HW3_Project.Form1.LoadFibonacciNumbersfirst50ToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            Calls the generator
+            </summary>
+            <param name="sender">object sender</param>
+            <param name="e">event args</param>
+        </member>
+        <member name="M:HW3_Project.Form1.LoadFibonacciNumbersfirst100ToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            The generator for the fibonacci numbers
+            </summary>
+            <param name="sender">object sender</param>
+            <param name="e">eventarga e</param>
+        </member>
+        <member name="F:HW3_Project.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HW3_Project.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HW3_Project.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:HW3_Project.Form1.Form1_Load">
+            <summary>
+            The getter and setter for form1
+            </summary>
+        </member>
+        <member name="M:HW3_Project.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:HW3_Project.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:HW3_Project.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:HW3_Project.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

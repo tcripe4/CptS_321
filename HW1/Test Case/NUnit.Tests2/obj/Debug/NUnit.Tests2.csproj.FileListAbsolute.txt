@@ -1,0 +1,9 @@
+C:\Users\travi\Source\Repos\NUnit.Tests2\NUnit.Tests2\bin\Debug\NUnit.Tests2.dll
+C:\Users\travi\Source\Repos\NUnit.Tests2\NUnit.Tests2\bin\Debug\NUnit.Tests2.pdb
+C:\Users\travi\Source\Repos\NUnit.Tests2\NUnit.Tests2\bin\Debug\nunit.framework.dll
+C:\Users\travi\Source\Repos\NUnit.Tests2\NUnit.Tests2\bin\Debug\nunit.framework.xml
+C:\Users\travi\Source\Repos\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.csprojAssemblyReference.cache
+C:\Users\travi\Source\Repos\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.csproj.CoreCompileInputs.cache
+C:\Users\travi\Source\Repos\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.csproj.CopyComplete
+C:\Users\travi\Source\Repos\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.dll
+C:\Users\travi\Source\Repos\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.pdb

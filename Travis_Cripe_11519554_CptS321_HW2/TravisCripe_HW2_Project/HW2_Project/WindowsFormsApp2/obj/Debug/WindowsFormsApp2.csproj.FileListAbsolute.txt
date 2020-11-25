@@ -1,0 +1,21 @@
+C:\Users\travi\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\travi\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\travi\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\travi\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\travi\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HW2_Project.exe.config
+C:\Users\travi\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HW2_Project.exe
+C:\Users\travi\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HW2_Project.pdb
+C:\Users\travi\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\HW2_Project.Properties.Resources.resources
+C:\Users\travi\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\HW2_Project.exe
+C:\Users\travi\Source\Repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\HW2_Project.pdb
+C:\Users\travi\Google Drive\School\Junior year\CptS 321\Travis.Cripe_HW1_321\cpts-321-hw\HW2\TravisCripe_HW2_Project\HW2_Project\WindowsFormsApp2\bin\Debug\HW2_Project.exe.config
+C:\Users\travi\Google Drive\School\Junior year\CptS 321\Travis.Cripe_HW1_321\cpts-321-hw\HW2\TravisCripe_HW2_Project\HW2_Project\WindowsFormsApp2\bin\Debug\HW2_Project.xml
+C:\Users\travi\Google Drive\School\Junior year\CptS 321\Travis.Cripe_HW1_321\cpts-321-hw\HW2\TravisCripe_HW2_Project\HW2_Project\WindowsFormsApp2\bin\Debug\HW2_Project.exe
+C:\Users\travi\Google Drive\School\Junior year\CptS 321\Travis.Cripe_HW1_321\cpts-321-hw\HW2\TravisCripe_HW2_Project\HW2_Project\WindowsFormsApp2\bin\Debug\HW2_Project.pdb
+C:\Users\travi\Google Drive\School\Junior year\CptS 321\Travis.Cripe_HW1_321\cpts-321-hw\HW2\TravisCripe_HW2_Project\HW2_Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\travi\Google Drive\School\Junior year\CptS 321\Travis.Cripe_HW1_321\cpts-321-hw\HW2\TravisCripe_HW2_Project\HW2_Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\travi\Google Drive\School\Junior year\CptS 321\Travis.Cripe_HW1_321\cpts-321-hw\HW2\TravisCripe_HW2_Project\HW2_Project\WindowsFormsApp2\obj\Debug\HW2_Project.Properties.Resources.resources
+C:\Users\travi\Google Drive\School\Junior year\CptS 321\Travis.Cripe_HW1_321\cpts-321-hw\HW2\TravisCripe_HW2_Project\HW2_Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\travi\Google Drive\School\Junior year\CptS 321\Travis.Cripe_HW1_321\cpts-321-hw\HW2\TravisCripe_HW2_Project\HW2_Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\travi\Google Drive\School\Junior year\CptS 321\Travis.Cripe_HW1_321\cpts-321-hw\HW2\TravisCripe_HW2_Project\HW2_Project\WindowsFormsApp2\obj\Debug\HW2_Project.exe
+C:\Users\travi\Google Drive\School\Junior year\CptS 321\Travis.Cripe_HW1_321\cpts-321-hw\HW2\TravisCripe_HW2_Project\HW2_Project\WindowsFormsApp2\obj\Debug\HW2_Project.pdb

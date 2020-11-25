@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HW2_Project</name>
+    </assembly>
+    <members>
+        <member name="T:Text_File.Algorithms">
+            <summary>
+            This is my class for the 3 of my algorithms
+            </summary>
+        </member>
+        <member name="M:Text_File.Algorithms.Check_Hash(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            This gets the hash codes of all the numbers and checks for them for duplicates
+            </summary>
+            <param name="myList">The list with all the integers</param>
+            <returns>an integer</returns>
+        </member>
+        <member name="M:Text_File.Algorithms.O1(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            Checks for all of the non duplicate numbers then subtracts it from the total
+            </summary>
+            <param name="myList">List with all the integers</param>
+            <returns>retuns the amount of dupliates</returns>
+        </member>
+        <member name="M:Text_File.Algorithms.Sort(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            Sorts all the items then checks for duplicates
+            </summary>
+            <param name="myList">Int list will all the integers</param>
+            <returns>returns the amount of duplicates</returns>
+        </member>
+        <member name="T:WindowsFormsApp2.Form1">
+            <summary>
+            This is the class for the form
+            </summary>
+            <summary>
+            The main class for the design of the form
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp2.Form1.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:WindowsFormsApp2.Form1"/> class.
+            This is the function that runs the algorithms and outputs the text to the textbox
+            </summary>
+        </member>
+        <member name="F:WindowsFormsApp2.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp2.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp2.Form1.CreateMyMultilineTextBox">
+            <summary>
+            Creates the textbox to be multiline
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp2.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:WindowsFormsApp2.Program">
+            <summary>
+            This class just contains the main which runs the form
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp2.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:HW2_Project.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:HW2_Project.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:HW2_Project.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
